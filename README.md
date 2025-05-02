@@ -2,10 +2,11 @@
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGNybmxsaGx0enR6Z3dmOHY4OWpkY2pyZ2J4cXJwZTd6aTlpMGR2NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/DzK62q0DdPhqxT9Bhi/giphy.gif" width="150" align="right"/>
 
-🎓 I'm an **Engineering student** at FI  
-🔧 I’m currently working on **Docker**, **HTML/CSS**, and **MySQL**  
-🧠 Exploring **Operating Systems**, **Containers**, and **GitHub Pages**  
-👩‍✈️ I'm also a **military officer**, organized and goal-oriented
+- 👩‍💻 Estudiante de **Ingeniería en Informática**-Facultad de Ingenieria del Ejercito
+- - 🪖 **Oficial del Ejército Argentino**, orientada a la logística
+- 💻 Actualmente estoy aprendiendo **Docker**, **HTML/CSS** y **MySQL**
+- 🌐 Podés visitar mi [**sitio web personal**](https://joafernandez.github.io/pagina-propia).
+
 
 💫 You can visit my [personal website](https://joafernandez.github.io/pagina-propia)
 
