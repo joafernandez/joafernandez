@@ -7,7 +7,8 @@
 - 💻 Actualmente estoy aprendiendo **Docker**, **HTML/CSS** y **MySQL**
 
   
-- 🌐 Podés visitar mi [**sitio web personal**](https://joafernandez.github.io/pagina-propia).
+- 🌐 Podés visitar mi [sitio web personal](https://joafernandez.github.io/web-personal/)
+
 
 
 
